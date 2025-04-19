@@ -63,7 +63,8 @@ A comprehensive data analysis project that explores global startup funding trend
 ## 🔗 Links
 
 - 📊 Tableau Dashboard: https://public.tableau.com/app/profile/popatsing.waghela6502/viz/StartupFundingAnalysis_17330668900950/StartupFundingAnalysis
-- 💻 Google Colab (python): https://colab.research.google.com/drive/1BVGCwx_GaTy4VB4zaAz09b4vtLelaIzM#scrollTo=MMKC1VUyn0o3 
+- 💻 Google Colab (python): https://colab.research.google.com/drive/1BVGCwx_GaTy4VB4zaAz09b4vtLelaIzM#scrollTo=MMKC1VUyn0o3
+- 📂 Googlesheet : https://docs.google.com/spreadsheets/d/1yHVoU7p4bhmR-XM5yC78krswuSCaNA4F/edit?usp=sharing&ouid=115261896649031789640&rtpof=true&sd=true
 
 ---
 
