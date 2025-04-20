@@ -26,7 +26,7 @@ A comprehensive data analysis project that explores global startup funding trend
 - **Python** (pandas, matplotlib, seaborn)
 - **Tableau** (for analysis and visualization)
 - **PowerPoint** (for final presentation & insights summary)
-- **Excel** (Data Cleaning, PivotTables, Dashboards)
+- **Googlesheet(xlsx)** (Data Cleaning, PivotTables, Dashboards)
 
 ---
 
